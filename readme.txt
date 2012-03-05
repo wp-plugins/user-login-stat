@@ -1,4 +1,4 @@
-=== User Login Stat ===
+=== User Login Statistics ===
 Contributors: tareq1988
 Donate link: http://tareq.weDevs.com
 Tags: user, login, stat, statistics
@@ -6,11 +6,11 @@ Requires at least: 3.2
 Tested up to: 3.3
 Stable tag: 0.1
 
-A simple plugin that tracks registered users login statistics per day. You can track how many registered users are signing in to your site everyday. 
+Track registered users login activity
 
 == Description ==
 
-A simple plugin that tracks registered users login statistics per day. You can track how many registered users are signing in to your site everyday. 
+A simple plugin that tracks registered users login statistics per day. You can track how many registered users are signing in to your site everyday.
 
 No extra configuration needed. Just creates a plugin page in admin panel and displays everydays user login count.
 
@@ -30,7 +30,7 @@ Nope, currently there isn't any
 
 == Screenshots ==
 
-Screenshot of this plugin
+1. Screenshot of this plugin
 
 == Changelog ==
 
